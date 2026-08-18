@@ -11,4 +11,5 @@ Documentación y registro de avance del curso de Oracle Cloud Infrastructure.
 
 * **Políticas de Seguridad (Policies):** Aplicación del principio de menor privilegio (*least privilege*) para restringir o permitir acciones sobre recursos de OCI.
 <img width="711" height="360" alt="image" src="https://github.com/user-attachments/assets/69b905aa-21fc-443e-a151-fee35f278e7f" />
+
 * **Autenticación:** Configuración de credenciales de acceso y llaves API / SSH según el caso.
