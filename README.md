@@ -1,4 +1,3 @@
-# oci-app-deployment-notes
 # Implementación de Aplicación en la Nube con OCI
 Documentación y registro de avance del curso de Oracle Cloud Infrastructure.
 
