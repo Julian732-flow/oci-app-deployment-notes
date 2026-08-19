@@ -14,10 +14,11 @@ Documentación y registro de avance del curso de Oracle Cloud Infrastructure.
 
 * **Autenticación:** Configuración de credenciales de acceso y llaves API / SSH según el caso.
 * **Conexión Segura con Cloud Shell:**
-  * ### Generación de Llaves RSA en Cloud Shell
+### Generación de Llaves RSA en Cloud Shell
 
 Se ingresó al directorio `.ssh` y se generó el par de llaves RSA (`cloudshellkey` y `cloudshellkey.pub`) para las conexiones SSH.
-| :---: | :---: |
-| ![Comando ssh-keygen](<img width="968" height="224" alt="image" src="https://github.com/user-attachments/assets/24cd451b-5742-4ef0-99fb-5cd5e2dfae16" />
-) | ![Resultado Llave RSA](<img width="763" height="474" alt="image" src="https://github.com/user-attachments/assets/1d41fefa-5f5a-4ad8-95be-8d0607c0bcda" />
-) |
+* **Comando ssh-keygen** 
+<img width="968" height="224" alt="Captura de pantalla 2026-08-18 191216" src="https://github.com/user-attachments/assets/36ea6391-463e-4912-8f11-8b11ed28044a" />
+
+* **Resultado Llave RSA**
+<img width="763" height="474" alt="Captura de pantalla 2026-08-18 191328" src="https://github.com/user-attachments/assets/72b1721a-36da-42ab-9fad-bbf6438af1fb" />
